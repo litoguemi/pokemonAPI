@@ -1,6 +1,7 @@
 # README
 
-PokemonAPI is a project which implements basic CRUD operations using APIs. 
+PokemonAPI is a project which implements basic CRUD operations using APIs, it also reads a CSV file from a remote repository to fill some data.
+
 * Ruby version
     - Version used to deploy the app
         ruby 3.0.2p107 (2021-07-07 revision 0db68f0233) [x64-mingw32]
